@@ -1,0 +1,14 @@
+##Welcome to SMoney, (SimpleMoney) this plugin allows players to receive money when they kill a player.
+
+#Prefix when messages are sent to players
+Prefix: '&e[SMoney]'
+
+#Amount of Money given to the killer
+KillerRecieveMoney: 20
+
+#Message sent to Killer when he/she kills a player
+KillerMessage: '&eYou have been given $20 for killing a player!'
+
+
+#Message sent to Victim when killed
+VictimMessage: '&cYou have been killed!'
